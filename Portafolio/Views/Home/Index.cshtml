@@ -1,0 +1,17 @@
+﻿@model Portafolio.Models.HomeIndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+
+
+    DateTime hoy = DateTime.Now;
+
+
+}
+<h5> @hoy.ToString("dd/MM/yyyy")</h5>
+<partial name="_Presentacion"/>
+<partial name="_Habilidades"/>
+<partial name="_SeccionProyectos" model="Model.Proyectos" /> 
+
+
+
