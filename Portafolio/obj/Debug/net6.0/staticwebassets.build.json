@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QrN67vOCRf5OIb7ZGrNrUgbErzGn0OzjG1tmnrOcOXo=",
+  "Hash": "fUtsGI8xddP2OAz/2r9tfHr9LqI2cYi/UYOB/K4BtRQ=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\amazon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\index.pdf",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Imagenes/index.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\index.pdf"
     },
     {
       "Identity": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\TerreroEnrique.jpg",
