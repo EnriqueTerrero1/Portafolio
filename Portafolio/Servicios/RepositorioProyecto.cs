@@ -16,15 +16,15 @@ namespace Portafolio.Servicios
                 {
                     Titulo = "To Do App",
                     Descripcion = "To Do app realizado en ASP.NET CORE ",
-                    Link="",
-                    ImagenURL="/imagenes/amazon.png"
+                    Link="https://todo20221014081626.azurewebsites.net/",
+                    ImagenURL="/imagenes/ToDo.png"
                 },
                 new Proyecto
                 {
-                    Titulo = "Rent Car App",
-                    Descripcion = "Rent Car app realizado en ASP.NET CORE ",
-                    Link="",
-                    ImagenURL="/imagenes/amazon.png"
+                    Titulo = "Manejo de presupuesto",
+                    Descripcion = "Manejo de presupuesto app realizado en ASP.NET CORE ",
+                    Link="https://manejopresupuesto20221014092335.azurewebsites.net/",
+                    ImagenURL="/imagenes/ManejoPresupuesto.png"
                 }
             };
             return proyectos;

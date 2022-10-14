@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fUtsGI8xddP2OAz/2r9tfHr9LqI2cYi/UYOB/K4BtRQ=",
+  "Hash": "OZlClTJM5JeItBBcnAsyJOaMJqsTJv5YC76ujN2REaM=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -136,6 +136,23 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\index.pdf"
     },
     {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\ManejoPresupuesto.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Imagenes/ManejoPresupuesto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ManejoPresupuesto.png"
+    },
+    {
       "Identity": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\TerreroEnrique.jpg",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\TerreroEnrique.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\ToDo.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Imagenes/ToDo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ToDo.png"
     },
     {
       "Identity": "C:\\Users\\Enrique Terrero\\Documents\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
